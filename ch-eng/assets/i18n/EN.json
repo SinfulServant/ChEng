@@ -1,0 +1,105 @@
+{
+    "Header": {
+        "Buttons": {
+            "Courses": "Courses",
+            "FAQ": "FAQ",
+            "FreeTest": "Free tests",
+            "Contacts": "Contacts",
+            "Language": {
+                "UA": "UA",
+                "ENG": "ENG",
+                "CHI": "CHI"
+            }
+        }
+    },
+
+    "MobileDropdown": {
+        "NavigationMainPage": {
+            "AboutScholl": "About scholl",
+            "FormOfEducation": "Form of education",
+            "Reviews": "Reviews",
+            "MakeAnAppointment": "Sign up for a trial lesson"
+        },
+        "NavigationAllApp": {
+            "Courses": "Courses",
+            "FAQ": "FAQ",
+            "FreeTest": "Pass free test",
+            "Contacts": "Contacts"
+        }
+    },
+
+    "Welcome": {
+        "StudyEng": "Learn English and Chinese right now!",
+        "Button": "Sign up for a trial lesson"
+    },
+
+    "AboutSchool": {
+        "Title": "Why us?",
+        "SatisfiedStudents": "600+ satisfied students",
+        "Methodics": "Proven modern techniques",
+        "Teachers": "Certified Teachers",
+        "Exams": "Preparing for international exams",
+        "Certificate": "We provide a certificate upon completion of the level"
+    },
+
+    "Forms": {
+        "Title": "What are the forms of learning?",
+        "Individual": {
+            "Title": "Individual",
+            "Description": "Choose a convenient schedule, and the teacher will make a program taking into account your level and needs."
+        },
+        "Pair": {
+            "Title": "Pair",
+            "Description": "Learn a language paired with a friend!"
+        },
+        "Group": {
+            "Title": "Group",
+            "Description": "Get a comprehensive study of English, and communicating with different people overcome the language barrier!"
+        },
+        "SpeakingClub": {
+            "Title": "Speaking Club",
+            "Description": "For ChEng Island students, free speaking clubs are held every week on various topics,"
+        },
+        "Buttons": {
+            "SignUp": "Sign up for the course",
+            "FreeTest": "Pass free testing",
+            "FreeOralTest": "Pass free oral testing"
+        }
+    },
+
+    "Reviews": "Reviews from our student",
+
+    "Appointment": {
+        "Title": "Sign up for a trial lesson",
+        "Name": "Enter your full name",
+        "Mail": "Enter your mail",
+        "PhoneNumber": "Your number",
+        "Button": "Sign up!"
+    },
+    
+    "ContactPage": {
+        "AskQuestion": {
+            "Title": "Sign up for a trial lesson",
+            "Name": "Enter your name",
+            "Mail": "Enter your mail",
+            "YourQuestion": "Your question",
+            "PhoneNumber": "Your number",
+            "Button": "Sign up!"
+        },
+        "OurContactsTitle": "Contact us"
+    },
+
+    "CoursesPage": {
+        "ToPay": "Pay for subscription",
+        "Button": {
+            "AmountOfLessons": "Lessons` amount - "
+        }
+    },
+
+    "PaymentPage": {
+        "AlmostReady": "Almost ready!",
+        "Amount": "Amount: ",
+        "AgreeWithDocuments": "I have read and agree to the terms of the <a href=\"/public-contract\">public contract</a>, <a href=\"/privacy-policy\">privacy policy</a> and consent to the processing of my personal data.",
+        "BtnToPay": "To pay"
+    }
+}
